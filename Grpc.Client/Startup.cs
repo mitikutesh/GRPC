@@ -34,7 +34,7 @@ namespace Grpc.Client
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-            }
+            } 
 
             app.UseHttpsRedirection();
 
